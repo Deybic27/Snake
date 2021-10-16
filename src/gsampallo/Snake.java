@@ -17,9 +17,6 @@ public class Snake extends JFrame{
     int width = 640;
     int height = 480;
 
-    int widthObjetos = 600;
-    int heightObjetos = 440;
-
     Point snake, comida;
     
     boolean gameOver = false;
